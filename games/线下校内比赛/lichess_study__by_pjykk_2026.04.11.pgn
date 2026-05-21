@@ -1,0 +1,251 @@
+[Event "第二届也西杯: Round 1 Table 1 zxl-lmc"]
+[Date "2026.04.11"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "C40"]
+[Opening "King's Pawn Game: Damiano Defense"]
+[StudyName "第二届也西杯"]
+[ChapterName "Round 1 Table 1 zxl-lmc"]
+[ChapterURL "https://lichess.org/study/ypSRcL7M/LTM9dqBr"]
+[Annotator "https://lichess.org/@/pjykk"]
+[UTCDate "2026.04.11"]
+[UTCTime "10:57:18"]
+
+1. e4 e5 2. Nf3 f6 3. d4 c6 4. dxe5 fxe5 5. Nc3 d6 6. Bc4 b5 7. Bb3 a6 8. Ng5 Be7 9. Nf7 Qb6 10. Nxh8 c5 11. Qd5 Be6 12. Qxe6 c4 13. Nd5 Qa5+ 14. Bd2 b4 15. Bxc4 Qd8 16. Nf7 Qa5 17. Nxd6+ Kd8 18. Qc8# 1-0
+
+
+[Event "第二届也西杯: Round 1 Table 2 whl-lx"]
+[Date "2026.04.11"]
+[Result "1-0"]
+[Termination "Black resigned"]
+[Variant "Standard"]
+[ECO "A48"]
+[Opening "London System"]
+[StudyName "第二届也西杯"]
+[ChapterName "Round 1 Table 2 whl-lx"]
+[ChapterURL "https://lichess.org/study/ypSRcL7M/4UABWIRj"]
+[Annotator "https://lichess.org/@/pjykk"]
+[UTCDate "2026.04.11"]
+[UTCTime "11:34:53"]
+
+1. d4 Nf6 2. Bf4 g6 3. Nf3 Bg7 4. c3 O-O 5. Nbd2 d6 6. e4 Nbd7 7. Be2 c5 8. O-O b6 9. Re1 Bb7 10. Bf1 Qc7 11. a4 Rae8 12. a5 bxa5 13. Qa4 e5 14. dxe5 dxe5 15. Bg5 Qb6 16. Qxa5 Qxb2 17. Reb1 Qc2 18. Ra2 Bxe4 19. Rxc2 Bxc2 20. Rb7 h6 21. Be3 Bf5 22. Bb5 e4 23. Ne1 Rd8 24. Qa2 Ne5 25. Rxa7 Rc8 26. Bf4 Nd5 27. Qxd5 1-0
+
+
+[Event "第二届也西杯: Round 1 Table 3 zhz-szh"]
+[Date "2026.04.11"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "B07"]
+[Opening "Czech Defense"]
+[StudyName "第二届也西杯"]
+[ChapterName "Round 1 Table 3 zhz-szh"]
+[ChapterURL "https://lichess.org/study/ypSRcL7M/e3zSfSfg"]
+[Annotator "https://lichess.org/@/pjykk"]
+[UTCDate "2026.04.11"]
+[UTCTime "11:01:58"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 c6 4. f4 Qa5 5. Bd3 e5 6. Nf3 Bg4 7. fxe5 Bxf3 8. Qxf3 dxe5 9. dxe5 Qxe5 10. Bf4 Qc5 11. O-O-O Nbd7 12. e5 Nd5 13. Nxd5 Qxd5 14. Bf5 Nxe5 15. Qxd5 cxd5 16. Bxe5 f6 17. Bc7 1-0
+
+
+[Event "第二届也西杯: Round 1 Table 4 pjy-yds"]
+[Date "2026.04.11"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "D34"]
+[Opening "Tarrasch Defense: Classical Variation"]
+[StudyName "第二届也西杯"]
+[ChapterName "Round 1 Table 4 pjy-yds"]
+[ChapterURL "https://lichess.org/study/ypSRcL7M/of9Km89k"]
+[Annotator "https://lichess.org/@/pjykk"]
+[UTCDate "2026.04.11"]
+[UTCTime "11:04:55"]
+
+{ 评注:pjy }
+1. c4 { [%eval 0.11] } 1... Nf6 { [%eval 0.14] } 2. g3 { [%eval 0.11] } 2... e6 { [%eval 0.24] } 3. Bg2 { [%eval 0.23] } 3... Be7 { [%eval 0.19] } 4. Nf3 { [%eval 0.28] } 4... O-O { [%eval 0.21] } 5. O-O { [%eval 0.16] } 5... c5 { [%eval 0.34] } 6. Nc3 { [%eval 0.21] } 6... Nc6 { [%eval 0.28] } 7. d4 { [%eval 0.27] } 7... d5 { [%eval 0.29] } { 英国式转半塔拉什,实在是我没预料到的下法。 } 8. cxd5 { [%eval 0.35] } 8... exd5 { [%eval 0.36] } 9. dxc5 { [%eval 0.37] } 9... Bxc5 { [%eval 0.38] } 10. Bg5 { [%eval 0.25] } 10... Be6 { [%eval 0.65] } { 到这里我脱谱了。 } 11. Bxf6 { [%eval 0.52] } 11... Qxf6 { [%eval 0.41] } 12. Nxd5 { [%eval 0.44] } 12... Qxb2 { [%eval 0.5] } 13. Rc1!? { [%eval 0.15] } { 我指望他走 ...Ba3。同时希望 Rc2 这样加强一下 a2 兵和 e2 兵的保护。 } (13. Nc7! Rad8 14. Qc1 { 换掉黑方的双象,会好一些。 }) 13... Ba3?? { [%eval 2.7] } { 送半子。 } (13... Bb6) 14. Rc2 { [%eval 3.06] } 14... Qb5 { [%eval 3.0] } 15. Nc7 { [%eval 2.94] } 15... Qf5 { [%eval 3.27] } 16. Nxa8 { [%eval 3.06] } 16... Rxa8 { [%eval 2.99] } 17. Rd2 { [%eval 2.91] } 17... Bb4 { [%eval 3.19] } 18. Nd4 { [%eval 3.09] } { 这里我没算好,尽管这确实是一选。 } 18... Qf6 { [%eval 3.14] } 19. Rd3 { [%eval 2.96] } 19... Ne5?! { [%eval 3.8] } { Inaccuracy. Nxd4 was best. } 20. Nxe6 { [%eval 3.69] } 20... Nxd3 { [%eval 3.71] } 21. Qxd3? { [%eval 2.15] } { Mistake. Nc7 was best. } (21. Nc7 Rc8 22. Nd5 $18 { 我没看到这步 Nd5。 }) 21... Qxe6 { [%eval 2.14] } 22. Bxb7?! { [%eval 1.35] } { Inaccuracy. Rb1 was best. } { 确实不如 Rb1 精确。 } 22... Re8 { [%eval 1.23] } 23. Bf3 { [%eval 1.0] } { 行棋至此着左右我发现棋钟没设置加秒。这个时候正在调棋钟。另外我已经提前发现我丢不掉 a2 兵了。 } 23... Qxa2?? { [%eval 4.98] } { Loose piece drop off! } 24. Qb5 $18 { [%eval 5.12] } { 以下转化是简单的。 } 24... Rf8 { [%eval 5.28] } 25. Qxb4 { [%eval 5.25] } 25... a5 { [%eval 5.24] } 26. Qd4 { [%eval 5.31] } 26... Rb8 { [%eval 5.3] } 27. Ra1 { [%eval 5.29] } 27... Rb1+?! { [%eval 9.06] } 28. Rxb1?! { [%eval 5.43] } 28... Qxb1+ { [%eval 5.39] } 29. Kg2 { [%eval 5.47] } 29... Qb8 { [%eval 5.43] } 30. Qd7 { [%eval 5.75] } 30... g6 { [%eval 5.9] } 31. Bd5 { [%eval 5.67] } 31... Qf8 { [%eval 5.86] } 32. Qa7 { [%eval 5.72] } 32... Kg7 { [%eval 5.83] } 33. Qxa5 { [%eval 5.76] } 33... Qe7 { [%eval 5.62] } 34. Qd2 { [%eval 5.75] } 34... Qe5 { [%eval 5.68] } 35. Ba2 { [%eval 5.61] } 35... Qe4+ { [%eval 5.56] } 36. f3 { [%eval 5.4] } 36... Qe5 { [%eval 5.9] } 37. Bc4 { [%eval 5.77] } 37... h5 { [%eval 6.57] } 38. Qa2 { [%eval 6.08] } 38... Qe7 { [%eval 6.33] } 39. Bxf7 { [%eval 6.54] } 39... Qxf7 { [%eval 7.77] } 40. Qxf7+ { [%eval 7.27] } 40... Kxf7 { [%eval 7.27] } 41. h4 { [%eval 7.26] } { 后面王兵残局还是走了几步,不过没记下来。 } 1-0
+
+
+[Event "第二届也西杯: Round 2 Table 1 zhz-whl"]
+[Date "2026.04.11"]
+[Result "1/2-1/2"]
+[Variant "Standard"]
+[ECO "C42"]
+[Opening "Petrov's Defense: Damiano Variation, Kholmov Gambit"]
+[StudyName "第二届也西杯"]
+[ChapterName "Round 2 Table 1 zhz-whl"]
+[ChapterURL "https://lichess.org/study/ypSRcL7M/3ei4Fgj9"]
+[Annotator "https://lichess.org/@/pjykk"]
+[UTCDate "2026.04.11"]
+[UTCTime "11:10:31"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 Nxe4 4. Qe2 Qe7 5. Qxe4 d6 6. d4 dxe5 7. dxe5 Nc6 8. Nc3 Qxe5 9. Qxe5+ Nxe5 10. Bf4 Bd6 11. Bg3 h5 12. O-O-O f6 13. Nb5 h4 14. Nxd6+ cxd6 15. Bf4 g5 16. Be3 Ke7 17. h3 Bf5 18. Be2 Rhc8 19. Rd2 Nc4 20. Bxc4 Rxc4 21. f3 Rac8 22. c3 a6 23. Bd4 b5 24. Re1+ Kf7 25. Re3 b4 26. Kd1 $138 1/2-1/2
+
+
+[Event "第二届也西杯: Round 2 Table 2 pjy-zxl"]
+[Date "2026.04.11"]
+[Result "1-0"]
+[Termination "White Wins on Time"]
+[Variant "Standard"]
+[ECO "A38"]
+[Opening "English Opening: Symmetrical Variation, Full Symmetry Line"]
+[StudyName "第二届也西杯"]
+[ChapterName "Round 2 Table 2 pjy-zxl"]
+[ChapterURL "https://lichess.org/study/ypSRcL7M/St9cY7PI"]
+[Annotator "https://lichess.org/@/pjykk"]
+[UTCDate "2026.04.11"]
+[UTCTime "11:15:11"]
+
+{ 评注:pjy }
+1. c4 { [%eval 0.11] } 1... c5 { [%eval 0.19] } 2. g3 { [%eval 0.08] } 2... g6 { [%eval 0.18] } 3. Bg2 { [%eval 0.1] } 3... Bg7 { [%eval 0.12] } 4. Nc3 { [%eval 0.07] } 4... Nc6 { [%eval 0.14] } 5. Nf3 { [%eval 0.06] } 5... Nf6 { [%eval 0.29] } { 我不太喜欢这步完全对称的着法。 } 6. d4 { [%eval 0.35] } 6... cxd4 { [%eval 0.44] } 7. Nxd4 { [%eval 0.35] } 7... Nxd4 { [%eval 0.33] } 8. Qxd4 { [%eval 0.55] } 8... d6 { [%eval 0.54] } 9. O-O { [%eval 0.47] } 9... O-O { [%eval 0.54] } 10. Qd3 { [%eval 0.55] } { 到这里我差不多脱谱了。 } 10... Rb8 { [%eval 0.61] } 11. e4?! { [%eval 0.3] } { 希望形成一个 Maroczy 兵型。大概还是对这个开局理解不太够。 } 11... b6?! { [%eval 0.64] } { 这步棋以及上一步 ...Rb8 意义不明。大概最好的想法是尽快 Nd7。 } 12. b3 { [%eval 0.45] } 12... Bb7 { [%eval 0.71] } 13. Bb2 { [%eval 0.39] } 13... Qd7 { [%eval 0.73] } 14. Rad1 { [%eval 0.73] } 14... Rfd8 { [%eval 0.67] } 15. Qe2 { [%eval 0.5] } 15... Qe6?! { [%eval 0.86] } { 这个后的位置看上去怪怪的,不过的确给马腾出了 d7 格。 } 16. Rfe1 { [%eval 0.92] } 16... Nd7 { [%eval 1.01] } 17. Nd5 { [%eval 0.82] } 17... Ne5?! { [%eval 1.86] } { Inaccuracy. Bxb2 was best. } 18. f4 { [%eval 1.84] } 18... Nc6 { [%eval 1.58] } 19. Bxg7 { [%eval 1.64] } 19... Kxg7 { [%eval 1.94] } 20. Qb2+ { [%eval 1.81] } 20... f6 { [%eval 1.66] } { 到这里我相信我已经有了不小的优势, 不过并不知道应该怎么转化。 } 21. Re2?! { [%eval 1.04] } { 想法是灵活处理双车。 } (21. e5!! { 我无法理解引擎的思路。 } 21... fxe5 22. b4 Qf7 23. Qa1 Rf8 24. b5 Na5 25. fxe5 Qf2+ 26. Kh1 Nxc4) 21... Qf7 { [%eval 1.04] } 22. e5?! { [%eval 0.0] } { 急了。主要问题是没看见后面的 Qxe7。 } (22. Red2 Kh8 23. h4 Rf8 24. Ne3 a5 25. Qc3 Qg7 26. Kh2 Rg8 27. a3 Nd8) 22... dxe5 { [%eval 0.0] } 23. fxe5 { [%eval 0.0] } 23... Nxe5 { [%eval 0.0] } 24. Rxe5 { [%eval 0.0] } 24... fxe5 { [%eval 0.0] } 25. Qxe5+ { [%eval 0.0] } 25... Kg8 { [%eval 0.0] } 26. Nxe7+ { [%eval 0.0] } { 我这里一开始算的是 Kf8 Rf1+-,不过忘记了 d1 车还悬着。 } 26... Qxe7 { [%eval 0.0] } 27. Qxe7 { [%eval 0.0] } 27... Rxd1+ { [%eval 0.0] } 28. Bf1 { [%eval 0.0] } 28... Rf8 { [%eval 0.0] } 29. Qxb7 { [%eval 0.0] } 29... Rdxf1+ { [%eval 0.0] } 30. Kg2 { [%eval 0.0] } { 这里基本上是和棋。我作为单后方甚至需要更小心一些。 } 30... R1f2+ { [%eval 0.0] } 31. Kh3 { [%eval 0.0] } 31... Rxa2 { [%eval 0.0] } 32. Qd5+ { [%eval 0.0] } 32... Rf7 { [%eval 0.0] } 33. Qd8+ { [%eval 0.0] } 33... Kg7 { [%eval 0.0] } 34. Qd4+ { [%eval 0.0] } 34... Rf6 { [%eval 0.0] } 35. Qd7+ { [%eval 0.0] } 35... Kh6 { [%eval 0.0] } 36. Qe7 { [%eval 0.0] } 36... Raf2 { [%eval 0.0] } 37. Qe3+ { [%eval -0.22] } 37... g5 { [%eval 0.05] } 38. Kg4 { [%eval 0.07] } 38... R2f5? { [%eval 1.38] } { 送兵。 } 39. h4 { [%eval 1.39] } { 大概是太聚精会神于盘面了,连我也是过了一会儿才发现黑方已经超时了。 } 1-0
+
+
+[Event "第二届也西杯: Round 2 Table 3 lx-lmc"]
+[Date "2026.4.11"]
+[Round "2"]
+[Result "1-0"]
+[TimeControl "15+10"]
+[Termination "Checkmate"]
+[Board "3"]
+[Variant "Standard"]
+[ECO "C40"]
+[Opening "King's Pawn Game: Damiano Defense, Damiano Gambit"]
+[StudyName "第二届也西杯"]
+[ChapterName "Round 2 Table 3 lx-lmc"]
+[ChapterURL "https://lichess.org/study/ypSRcL7M/KCRJqipM"]
+[Annotator "https://lichess.org/@/pjykk"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Nf3 { [%eval 0.18] } 2... f6? { [%eval 1.62] } { Mistake. Nc6 was best. } (2... Nc6 3. Bc4 Nf6 4. d3 a6 5. c3 Bc5 6. O-O d6 7. Re1) 3. Nxe5 { [%eval 1.57] } 3... fxe5? { [%eval 2.97] } { Mistake. Qe7 was best. } (3... Qe7 4. Nf3 Qxe4+ 5. Be2 d5 6. O-O Qa4 7. Re1 Ne7 8. b3) 4. Qh5+ { [%eval 3.48] } 4... g6 { [%eval 3.62] } 5. Qxe5+ { [%eval 3.56] } 5... Qe7 { [%eval 3.66] } 6. Qxh8 { [%eval 3.6] } 6... Qxe4+ { [%eval 3.81] } 7. Kd1 { [%eval 3.65] } 7... d6?! { [%eval 5.42] } { Inaccuracy. Qe6 was best. } (7... Qe6 8. Nc3 Nc6 9. Qxh7 Nge7 10. Nb5 Kd8 11. Be2 d5 12. Qh4) 8. f3?! { [%eval 3.9] } { Inaccuracy. Bb5+ was best. } (8. Bb5+ Kd8 9. Re1 Bg4+ 10. f3 Bxf3+ 11. gxf3 Qxf3+ 12. Be2 Qf7) 8... Qe7 { [%eval 4.57] } 9. Qxg8 { [%eval 3.99] } 9... Be6 { [%eval 3.95] } 10. Qh8 { [%eval 3.99] } 10... Nc6 { [%eval 3.91] } 11. Qc3 { [%eval 3.93] } 11... Ne5?! { [%eval 5.01] } { Inaccuracy. Bg7 was best. } (11... Bg7 12. Qe3 Bd4 13. Qe1 Nb4 14. Nc3 O-O-O 15. Bb5 c6 16. Ba4 Re8 17. d3) 12. Bb5+ { [%eval 4.26] } 12... c6 { [%eval 4.38] } 13. Ba4?! { [%eval 3.16] } { Inaccuracy. Be2 was best. } (13. Be2 c5 14. d4 cxd4 15. Qxd4 Bg7 16. Re1 O-O-O 17. Qxa7 Nc6 18. Qa8+ Kc7) 13... O-O-O?! { [%eval 4.18] } { Inaccuracy. Qg5 was best. } (13... Qg5 14. Rg1 Bh6 15. Qd4 O-O-O 16. Bb3 Bf5 17. Qf2 Ng4 18. Qg3 Qf6 19. Nc3) 14. d4 { [%eval 4.14] } 14... Nc4 { [%eval 4.15] } 15. h4 { [%eval 4.03] } 15... Bg7 { [%eval 4.79] } 16. Bf4?! { [%eval 3.27] } { Inaccuracy. Bb3 was best. } (16. Bb3 Qf7 17. Bg5 Re8 18. Nd2 b5 19. Bxc4 Bxc4 20. Nxc4 bxc4 21. Re1 Rxe1+) 16... c5 { [%eval 2.73] } 17. Nd2?? { [%eval -1.2] } { Blunder. Bb5 was best. } (17. Bb5 Bxd4 18. Bg5 Qf7 19. Bxc4 Bxc3 20. Bxe6+ Qxe6 21. Nxc3 Rf8 22. Re1 Qc4) 17... Bxd4 { [%eval -1.19] } 18. Bg5 { [%eval -1.48] } 18... Qg7 { [%eval -1.2] } 19. Qxc4 { [%eval -1.17] } 19... Bxc4 { [%eval -1.1] } 20. Bxd8?? { [%eval -3.71] } { Blunder. Nxc4 was best. } (20. Nxc4 Bxb2 21. Nxb2 Qxb2 22. Ke2 Qe5+ 23. Be3 c4 24. Rab1 a6 25. Rhe1 Qa5) 20... Bxb2 { [%eval -3.71] } 21. Rb1 { [%eval -3.82] } 21... Qe5?? { [%eval 2.58] } { Blunder. Kxd8 was best. } (21... Kxd8 22. Bb3 Bb5 23. c4 Bd7 24. Bc2 Bc3 25. Ke2 Bxd2 26. Kxd2 Qd4+ 27. Kc1) 22. Nxc4?? { [%eval 0.0] } { Blunder. Re1 was best. } (22. Re1 Qd4 23. Bg5 b5 24. Be3 Qf6 25. Bb3 d5 26. Bxc5 Bc3 27. Bxc4 bxc4) 22... Qd4+ { [%eval 0.0] } 23. Nd2 { [%eval 0.0] } 23... Bc3?? { [%eval 2.1] } { Blunder. Kxd8 was best. } (23... Kxd8 24. Re1 Bc3 25. Re8+ Kc7 26. Re7+ Kd8) 24. Bg5 { [%eval 2.16] } 24... Qxa4 { [%eval 1.98] } 25. Re1 { [%eval 2.02] } 25... Qxa2?! { [%eval 3.2] } { Inaccuracy. b5 was best. } (25... b5 26. a3 a6 27. Rb3 Qd4 28. Re8+ Kd7 29. Re7+ Kc6 30. Ke2 Bxd2 31. Bxd2) 26. Re8+ { [%eval 3.52] } 26... Kd7 { [%eval 3.37] } 27. Re7+ { [%eval 3.3] } 27... Kc6 { [%eval 3.3] } 28. Rbxb7 { [%eval 3.01] } 28... Qa1+ { [%eval 3.19] } 29. Ke2 { [%eval 3.04] } 29... Bf6?? { [%eval #5] } { Checkmate is now unavoidable. h6 was best. } (29... h6 30. Rbc7+ Kd5 31. Rxa7 Qb2 32. Bxh6 Qxc2 33. Re4 Qb2 34. Bf4 Bf6 35. g3) 30. Rec7+ { [%eval #4] } 30... Kd5 { [%eval #4] } 31. c4+ { [%eval #3] } 31... Ke5 { [%eval #3] } 32. Re7+ { [%eval #2] } 32... Kf5 { [%eval #1] } 33. g4# 1-0
+
+
+[Event "第二届也西杯: Round 2 Table 4 yds-szh"]
+[Date "2026.04.11"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "B00"]
+[Opening "Pirc Defense"]
+[StudyName "第二届也西杯"]
+[ChapterName "Round 2 Table 4 yds-szh"]
+[ChapterURL "https://lichess.org/study/ypSRcL7M/fu9xJleD"]
+[Annotator "https://lichess.org/@/pjykk"]
+[UTCDate "2026.04.11"]
+[UTCTime "11:33:37"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 e5 4. Nf3 Bg4 5. dxe5 Bxf3 6. Qxf3 dxe5 7. Bg5 h6 8. Bxf6 Qxf6 9. Qxf6 gxf6 10. Nd5 Bd6 11. Nxf6+ Ke7 12. Nd5+ Ke6 13. Bc4 Kd7 14. O-O-O Nc6 15. Ne3 f6 16. Nf5 Na5 17. Be2 h5 18. Rd5 b6 19. Rhd1 Nb7 20. Ba6 Nc5 21. Bb5+ Ke6 22. Nxd6 cxd6 23. Rxd6+ Ke7 24. f3 Rad8 25. Rxd8 Rxd8 26. Rxd8 Kxd8 27. Bc4 Kc7 28. b4 Nd7 29. g4 1-0
+
+
+[Event "第二届也西杯: Round 3 Table 1 whl-pjy"]
+[Date "2026.04.11"]
+[Result "0-1"]
+[Termination "White Resigns"]
+[Variant "Standard"]
+[ECO "A45"]
+[Opening "Indian Defense: Accelerated London System"]
+[StudyName "第二届也西杯"]
+[ChapterName "Round 3 Table 1 whl-pjy"]
+[ChapterURL "https://lichess.org/study/ypSRcL7M/VDzr0uDx"]
+[Annotator "https://lichess.org/@/pjykk"]
+[UTCDate "2026.04.11"]
+[UTCTime "11:21:36"]
+
+{ 评注: pjy }
+1. d4 { [%eval 0.15] } 1... Nf6 { [%eval 0.15] } 2. Bf4 { [%eval 0.0] } 2... c6 { [%eval 0.25] } 3. Nf3 { [%eval 0.15] } 3... Qb6 { [%eval 0.05] } { 这是我第一次在线下对局 (OTB) 中走这个变例。效果不尽如人意,看上去走伦敦的同学对这个变化都有所了解。 } 4. Nbd2 { [%eval 0.05] } 4... Nh5 { [%eval 0.0] } 5. Nc4 { [%eval 0.05] } 5... Qb4+ { [%eval 0.0] } 6. Bd2 { [%eval 0.0] } 6... Qxc4 { [%eval 0.03] } 7. e4 { [%eval 0.0] } 7... Qa4?! { [%eval 0.94] } { 忘谱。 } (7... Qe6 8. Ng5 Qg6 9. e5 d5 10. Bd3 Bf5 11. Bxf5 Qxf5 12. Qxh5 e6 { 这是谱招。 }) 8. b3 { [%eval 1.02] } 8... Qa3 { [%eval 1.1] } 9. Ne5 { [%eval 0.94] } 9... d5 { [%eval 1.16] } 10. exd5 { [%eval 1.05] } 10... cxd5?? { [%eval 3.61] } { 本来是想着可以走 ...Qd6 的,不过我已经忘记我为什么不走这步了。 } (10... Qd6 11. Qxh5 g6 12. Qf3 Qxd5) 11. Qxh5 { [%eval 3.52] } 11... g6 { [%eval 3.64] } 12. Qf3 { [%eval 3.46] } { 我没看到这一步。 } 12... f6 { [%eval 3.8] } 13. Bb5+ { [%eval 3.77] } 13... Bd7 { [%eval 3.66] } 14. Nxd7 { [%eval 3.78] } 14... Nxd7 { [%eval 3.41] } 15. Qxd5 { [%eval 2.73] } 15... Qd6? { [%eval 5.44] } { 我这里看到 Qxb7 了。不过我还是指望着对方看不见。 } 16. Qxd6?! { [%eval 3.47] } { Inaccuracy. Qxb7 was best. } 16... exd6 { [%eval 3.57] } { 简单看一下,白方多兵并且有双象,并且黑方的 d6 e6 很弱。 } 17. O-O { [%eval 3.48] } 17... a6 { [%eval 3.81] } { 诱使对方换掉双象。 } 18. Bxd7+?? { [%eval 1.45] } { Blunder. Rfe1+ was best. } (18. Rfe1+ Kd8 19. Bc4 { 这样我就很难防守了。 }) 18... Kxd7 { [%eval 1.54] } 19. c4 { [%eval 1.46] } 19... Bg7 { [%eval 1.46] } 20. Rfe1 { [%eval 1.24] } 20... f5 { [%eval 1.15] } { 这样白方似乎又没有那么好赢了。我这里主要担心 Bg5 Re7 以及 d5 Re6 Bf4 的想法,不过至少暂时都实现不了。 } 21. Be3 { [%eval 1.22] } 21... b5 { [%eval 1.15] } { 注意这个时候白方冲不了 c5,于是我抓紧时间先把兵链破开。 } 22. Rab1 { [%eval 0.84] } 22... bxc4 { [%eval 0.9] } 23. bxc4 { [%eval 0.97] } 23... Rab8 { [%eval 0.95] } 24. d5 { [%eval 0.63] } 24... h6? { [%eval 2.0] } { Mistake. Rhc8 was best. } (24... Rhc8 25. Rxb8 Rxb8 26. Bg5 { 这是我所担心的。不过我没发现 ...Bf8 直接守住了。 }) 25. Rb3?? { [%eval -0.04] } { Blunder. Ba7 was best. } 25... Rhc8?? { [%eval 1.82] } { Blunder. Rxb3 was best. } { 这个时候我还没反应过来。 } 26. Rc1?? { [%eval 0.0] } { Blunder. Bd2 was best. } 26... Rxb3 { [%eval 0.0] } { 这次我抓住了机会。 } 27. axb3 { [%eval 0.0] } 27... Rb8 { [%eval -0.03] } { 这样白方的后翼多兵冲不动了。 } 28. Rb1?? { [%eval -2.02] } { Blunder. Rc2 was best. } 28... a5 { [%eval -1.91] } { 这个时候我发现我居然吃回兵了。不过我想着的还是保底和棋,没有意识到实际上已经大优了。 } 29. Bc1 { [%eval -2.06] } 29... a4 { [%eval -1.99] } 30. b4 { [%eval -1.94] } 30... Rc8 { [%eval -2.05] } 31. Bb2? { [%eval -4.24] } { 这样反而变成我多兵。 } 31... Bxb2 { [%eval -4.23] } 32. Rxb2 { [%eval -4.22] } 32... Rxc4 { [%eval -4.21] } 33. g3 { [%eval -4.51] } 33... Rd4 { [%eval -4.29] } 34. b5 { [%eval -4.65] } 34... Rxd5 { [%eval -3.93] } 35. b6 { [%eval -4.88] } 35... Kc8 { [%eval -5.04] } 36. Rb4 { [%eval -5.26] } 36... Kb7?? { [%eval -0.59] } { Blunder. Ra5 was best. } { 车兵残局不熟练导致的。我并不知道 3v3 + 通路兵什么时候能赢。不过 Ra5 确实赢得简明。 } 37. Rxa4 { [%eval -0.64] } 37... Kxb6 { [%eval -0.83] } 38. Rc4?! { [%eval -1.65] } { Inaccuracy. Ra1 was best. } 38... Rc5 { [%eval -1.33] } 39. Rd4 { [%eval -1.17] } 39... Kc6 { [%eval -1.2] } 40. Kg2 { [%eval -1.52] } 40... d5 { [%eval -1.47] } 41. Ra4 { [%eval -1.48] } 41... Kd6?! { [%eval -0.67] } { Inaccuracy. Kb6 was best. } 42. Ra8?! { [%eval -1.4] } { Inaccuracy. Kf3 was best. } { 这种局面弱方最重要的应该是把王的位置变得积极一些。 } 42... Rc6 { [%eval -1.14] } 43. Rh8? { [%eval -2.63] } { Mistake. Kf3 was best. } 43... h5 { [%eval -2.4] } 44. Kf3 { [%eval -2.66] } 44... Ke5 { [%eval -2.57] } 45. Re8+?! { [%eval -3.7] } { Inaccuracy. Ke2 was best. } 45... Kd4? { [%eval -1.93] } { Mistake. Re6 was best. } { 这里 ...Re6 隔开王应该直接简单胜了。 } 46. Ra8? { [%eval -3.81] } { Mistake. Re1 was best. } 46... Kd3 { [%eval -3.53] } 47. h4?! { [%eval -4.77] } { Inaccuracy. Ra3+ was best. } 47... d4 { [%eval -4.66] } 48. Ra1 { [%eval -4.88] } 48... Re6 { [%eval -4.6] } { 现在隔开了。以下就没有技术含量了。 } 49. Rd1+?! { [%eval -6.29] } { Inaccuracy. g4 was best. } 49... Kc3 { [%eval -5.75] } 50. Rc1+ { [%eval -6.55] } 50... Kd2 { [%eval -6.12] } 51. Ra1 { [%eval -5.89] } 51... d3 { [%eval -6.32] } 52. Ra2+ { [%eval -7.43] } 52... Kc1 { [%eval -5.85] } 53. Ra1+ { [%eval -7.51] } 53... Kb2 { [%eval -7.47] } 54. Ra8 { [%eval -8.5] } 54... d2 { [%eval -7.86] } 55. Rd8 { [%eval -9.13] } 55... Kc2 { [%eval -9.15] } 56. Rc8+ { [%eval -8.25] } 56... Kd1 { [%eval -8.1] } 57. Kg2? { [%eval #-13] } { Checkmate is now unavoidable. Kf4 was best. } 57... Ke2 { [%eval #-12] } 58. Rc2 { [%eval #-11] } 58... Ke1 { [%eval -13.32] } { 前面的处理还算满意,不过车兵残局实在不怎么精确。 } 0-1
+
+
+[Event "第二届也西杯: Round 3 Table 2 zxl-zhz"]
+[Date "2026.04.11"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "B51"]
+[Opening "Sicilian Defense: Moscow Variation"]
+[StudyName "第二届也西杯"]
+[ChapterName "Round 3 Table 2 zxl-zhz"]
+[ChapterURL "https://lichess.org/study/ypSRcL7M/Du76l7Cu"]
+[Annotator "https://lichess.org/@/pjykk"]
+[UTCDate "2026.04.11"]
+[UTCTime "11:37:19"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nd7 4. d4 Qa5+ 5. Nc3 a6 6. Bxd7+ Bxd7 7. O-O cxd4 8. Qxd4 e5 9. Qd3 Nf6 10. Bg5 Nh5 11. Nd5 Rc8 12. c4 h6 13. Be3 Rc6 14. b4 Qd8 15. b5 axb5 16. cxb5 1-0
+
+
+[Event "第二届也西杯: Round 3 Table 3 yds-lx"]
+[Date "2026.04.11"]
+[Result "0-1"]
+[TimeControl "15+10"]
+[Termination "Checkmate"]
+[Variant "Standard"]
+[ECO "C54"]
+[Opening "Italian Game: Classical Variation, Giuoco Pianissimo"]
+[StudyName "第二届也西杯"]
+[ChapterName "Round 3 Table 3 yds-lx"]
+[ChapterURL "https://lichess.org/study/ypSRcL7M/qSvJ7H2D"]
+[Annotator "https://lichess.org/@/pjykk"]
+[UTCDate "2026.04.11"]
+[UTCTime "11:11:34"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Nf3 { [%eval 0.18] } 2... Nc6 { [%eval 0.22] } 3. Bc4 { [%eval 0.07] } 3... Nf6 { [%eval 0.1] } 4. d3 { [%eval 0.09] } 4... Bc5 { [%eval 0.1] } 5. c3 { [%eval 0.18] } 5... O-O { [%eval 0.12] } 6. O-O { [%eval 0.15] } 6... d5 { [%eval 0.27] } 7. exd5 { [%eval 0.2] } 7... Nxd5 { [%eval 0.17] } 8. Re1 { [%eval 0.33] } 8... Re8?! { [%eval 1.22] } { Inaccuracy. Bg4 was best. } (8... Bg4 9. h3 Bh5 10. Nbd2 Nb6 11. b4 Be7 12. b5 Na5 13. g4 Bg6 14. Nxe5) 9. d4 { [%eval 1.28] } 9... Bb6 { [%eval 1.06] } 10. dxe5 { [%eval 1.17] } 10... Bg4?? { [%eval 3.67] } { Blunder. Be6 was best. } (10... Be6 11. Bg5 Qd7 12. Bh4 Nf4 13. Na3 Qxd1 14. Raxd1 Bc5 15. Bxe6 Nxe6 16. Nc2) 11. Qxd5 { [%eval 3.48] } 11... Qxd5 { [%eval 4.28] } 12. Bxd5 { [%eval 4.26] } 12... Bxf3 { [%eval 4.22] } 13. Bxf3 { [%eval 4.29] } 13... Nxe5 { [%eval 4.22] } 14. Be4?? { [%eval -1.77] } { Blunder. Kf1 was best. } (14. Kf1 Nd3 15. Rxe8+ Rxe8 16. Bd2 Nxb2 17. Na3 h6 18. Rb1 Nd3 19. Nc4 Re6) 14... Nd3 { [%eval -1.67] } 15. Rf1? { [%eval -3.02] } { Mistake. Bxh7+ was best. } (15. Bxh7+ Kxh7 16. Rxe8 Rxe8 17. Be3 Bxe3 18. fxe3 Rxe3 19. Na3 Nxb2 20. Rb1 Re2) 15... Rxe4 { [%eval -2.98] } 16. Nd2 { [%eval -3.45] } 16... Re2 { [%eval -3.53] } 17. Nc4 { [%eval -3.44] } 17... Bxf2+ { [%eval -3.49] } 18. Kh1?! { [%eval -4.54] } { Inaccuracy. Rxf2 was best. } (18. Rxf2 Rxf2 19. Ne5 Rxg2+ 20. Kxg2 Nxe5 21. Bf4 Re8 22. a4 f6 23. Rd1 Kf7) 18... Bc5 { [%eval -3.65] } 19. h3 { [%eval -3.91] } 19... b5 { [%eval -3.79] } 20. Na5 { [%eval -3.92] } 20... Nf2+ { [%eval -3.74] } 21. Kh2 { [%eval -3.8] } 21... Bd6+ { [%eval -3.49] } 22. g3?? { [%eval -8.67] } { Blunder. Kg1 was best. } (22. Kg1 Nd3 23. b4 Be5 24. Nc6 Bxc3 25. Rb1 Bf6 26. Rxf6 gxf6 27. Bh6 Re1+) 22... Ng4+ { [%eval -8.6] } 23. Kg1 { [%eval -9.9] } 23... Bc5+ { [%eval -9.71] } 24. Rf2 { [%eval -9.08] } 24... Nxf2 { [%eval -8.83] } 25. Kf1 { [%eval -9.3] } 25... Rc2 { [%eval -7.49] } 26. Bf4 { [%eval -8.2] } 26... Nxh3 { [%eval -8.27] } 27. Bxc7? { [%eval #-3] } { Checkmate is now unavoidable. Nb3 was best. } (27. Nb3 Rf2+ 28. Ke1 Re8+ 29. Kd1 Nxf4 30. gxf4 Be3 31. a4 b4 32. a5 Bxf4) 27... Rxb2? { [%eval -8.4] } { Lost forced checkmate sequence. Re8 was best. } (27... Re8 28. Be5 Rxe5 29. b3 Rf2#) 28. Nb3? { [%eval #-4] } { Checkmate is now unavoidable. Nc6 was best. } (28. Nc6 Re8 29. Ne5 Rf2+ 30. Ke1 Ng5 31. Bd6 Nf3+ 32. Kd1 Nxe5 33. Bxc5 Rf1+) 28... Bb6? { [%eval -8.09] } { Lost forced checkmate sequence. Re8 was best. } (28... Re8 29. Nd2 Rxd2 30. Be5 Rxe5 31. a3 Rf2#) 29. Bd6? { [%eval #-4] } { Checkmate is now unavoidable. Bf4 was best. } (29. Bf4 Rf2+ 30. Ke1 Nxf4 31. gxf4 Re8+ 32. Kd1 h5 33. a4 Rf1+ 34. Kd2 Rd8+) 29... Rf2+? { [%eval -9.31] } { Lost forced checkmate sequence. Re8 was best. } (29... Re8 30. Be7 Rxe7 31. Nd2 Rxd2 32. Re1 Rf2#) 30. Ke1 { [%eval -8.96] } 30... Rg2 { [%eval -8.11] } 31. Bc5 { [%eval -8.6] } 31... Bxc5 { [%eval -8.31] } 32. Kd1? { [%eval #-14] } { Checkmate is now unavoidable. Nxc5 was best. } (32. Nxc5 Re8+ 33. Kd1 Rg1+ 34. Kc2 Rxa1 35. a4 bxa4 36. c4 Nf2 37. Nd7 Re2+) 32... Rg1+? { [%eval -8.99] } { Lost forced checkmate sequence. Rd8+ was best. } (32... Rd8+ 33. Nd4 b4 34. Rc1 bxc3 35. Rxc3 Bxd4 36. Rd3 Nf2+ 37. Ke2 Nxd3+ 38. Kxd3) 33. Kc2 { [%eval -8.38] } 33... Rxa1 { [%eval -8.37] } 34. Nxa1 { [%eval -8.29] } 34... Re8 { [%eval -8.23] } 35. Nb3 { [%eval -8.23] } 35... Bb6 { [%eval -8.37] } 36. Kd3 { [%eval -8.8] } 36... Re3+ { [%eval -8.69] } 37. Kd2 { [%eval -8.91] } 37... Rxg3 { [%eval -8.85] } 38. Kc2 { [%eval -8.97] } 38... Nf4 { [%eval -9.08] } 39. a3 { [%eval -10.21] } 39... Rg2+ { [%eval -9.6] } 40. Kd1? { [%eval #-23] } { Checkmate is now unavoidable. Nd2 was best. } (40. Nd2 h5 41. c4 Ba5 42. Kb3 Rxd2 43. cxb5 Bd8 44. Kc3 Rd5 45. Kc4 Kh7) 40... Nd3 { [%eval #-9] } 41. Nd4 { [%eval #-9] } 41... Bxd4 { [%eval #-8] } 42. cxd4 { [%eval #-8] } 42... Nb2+ { [%eval #-9] } 43. Kc1 { [%eval #-9] } 43... h5 { [%eval #-8] } 44. d5 { [%eval #-8] } 44... Kf8 { [%eval #-7] } 45. d6 { [%eval #-7] } 45... Ke8 { [%eval #-6] } 46. d7+ { [%eval #-6] } 46... Kxd7 { [%eval #-5] } 47. a4 { [%eval #-5] } 47... Nxa4 { [%eval #-5] } 48. Kd1 { [%eval #-5] } 48... h4 { [%eval #-4] } 49. Ke1 { [%eval #-4] } 49... h3 { [%eval #-3] } 50. Kf1 { [%eval #-3] } 50... Ke6 { [%eval #-2] } 51. Ke1 { [%eval #-2] } 51... h2 { [%eval #-1] } 52. Kf1 { [%eval #-1] } 52... h1=Q# 0-1
+
+
+[Event "第二届也西杯: Round 3 Table 4 lmc-szh"]
+[Date "2026.04.11"]
+[Result "0-1"]
+[Variant "Standard"]
+[ECO "B00"]
+[Opening "Lion Defense: Lion's Jaw"]
+[StudyName "第二届也西杯"]
+[ChapterName "Round 3 Table 4 lmc-szh"]
+[ChapterURL "https://lichess.org/study/ypSRcL7M/RjGTJkwz"]
+[Annotator "https://lichess.org/@/pjykk"]
+[UTCDate "2026.04.11"]
+[UTCTime "11:41:32"]
+
+1. e4 d6 2. d4 Nf6 3. f3 c6 4. d5 cxd5 5. Nc3 dxe4 6. fxe4 Nc6 7. Be3 Qa5 8. Bd2 Qc7 9. Qf3 Bg4 10. Nd5 Nxd5 11. Qxg4 Nf6 12. Qf3 Nd4 13. Qd3 Nxc2+ 14. Kf2 Nxa1 15. Qb5+ Qc6 16. Qxc6+ bxc6 17. Bd3 Rb8 18. Bc3 e5 19. Nf3 Nb3 20. axb3 Be7 21. Ra1 Ra8 22. Ra6 Kd7 23. b4 h6 24. b5 cxb5 25. Bxb5+ Kc7 26. Ba5+ Kc8 27. Nd2 d5 28. exd5 Bc5+ 29. Kf1 Kb7 30. Rc6 Bb6 31. Bb4 Nxd5 32. Bd6 f6 33. Nc4 Rac8 34. Rxc8 Rxc8 0-1
+
+
+[Event "第二届也西杯: Round 4 Table 1 lx-pjy"]
+[Date "2026.04.11"]
+[Result "1/2-1/2"]
+[Termination "Three Repetition"]
+[Variant "Standard"]
+[ECO "C42"]
+[Opening "Petrov's Defense: Classical Attack"]
+[StudyName "第二届也西杯"]
+[ChapterName "Round 4 Table 1 lx-pjy"]
+[ChapterURL "https://lichess.org/study/ypSRcL7M/BZSbBV0i"]
+[Annotator "https://lichess.org/@/pjykk"]
+[UTCDate "2026.04.11"]
+[UTCTime "11:23:34"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Nf3 { [%eval 0.18] } 2... Nf6 { [%eval 0.34] } 3. Nxe5 { [%eval 0.29] } 3... d6 { [%eval 0.22] } 4. Nf3 { [%eval 0.31] } 4... Nxe4 { [%eval 0.27] } 5. d4 { [%eval 0.25] } 5... d5 { [%eval 0.2] } 6. Bd3 { [%eval 0.26] } 6... Bf5 { [%eval 0.24] } 7. O-O { [%eval 0.22] } 7... Be7 { [%eval 0.16] } 8. Re1 { [%eval 0.49] } 8... Nc6 { [%eval 0.57] } 9. Qe2?! { [%eval -0.01] } { Inaccuracy. Nbd2 was best. } { 这我真没见过。 } 9... O-O { [%eval 0.03] } 10. Nbd2 { [%eval -0.11] } 10... Nxd2 { [%eval 0.36] } 11. Bxd2 { [%eval 0.33] } 11... Bxd3 { [%eval 0.34] } 12. Qxd3 { [%eval 0.33] } 12... Qd7 { [%eval 0.44] } 13. h3 { [%eval 0.28] } 13... f6 { [%eval 0.39] } 14. c4 { [%eval 0.36] } 14... Rad8 { [%eval 0.86] } 15. Rac1 { [%eval 0.34] } { 直接 c5 黑方应该就比较艰难了。 } 15... Rf7 { [%eval 0.72] } { 应该直接 dxc4,不要给第二次 c5 的机会。 } 16. Qb3 { [%eval 0.52] } 16... dxc4 { [%eval 0.46] } 17. Qxc4?! { [%eval -0.27] } { Inaccuracy. Rxc4 was best. } 17... Qd5 { [%eval -0.33] } { 完全没发现能直接吃兵。吃了就没有后面的事了。 } 18. Qxd5 { [%eval -0.36] } 18... Rxd5 { [%eval -0.36] } 19. Bc3 { [%eval -0.35] } 19... Bf8 { [%eval -0.27] } 20. Re6 { [%eval -0.44] } 20... Re7 { [%eval -0.32] } 21. Rce1 { [%eval -0.63] } 21... Rxe6 { [%eval -0.57] } 22. Rxe6 { [%eval -0.57] } 22... Kf7 { [%eval -0.54] } 23. Re4 { [%eval -0.86] } 23... Ne7 { [%eval -0.63] } 24. g4?! { [%eval -1.26] } { Inaccuracy. Kf1 was best. } (24. Kf1 Rb5 25. Ne1 Nd5 26. Re2 Rb6 27. Rc2 Ra6 28. a3 Ra4 29. Ke2 Bd6) 24... h6?! { [%eval -0.41] } { Inaccuracy. Rd6 was best. } (24... Rd6 25. g5 Ra6 26. gxf6 gxf6 27. a3 Nd5 28. Bd2 h5 29. Ne1 Rb6 30. b4) 25. Nh4 { [%eval -0.42] } 25... Rd7 { [%eval -0.32] } 26. Bb4 { [%eval -0.55] } 26... Nd5 { [%eval -0.07] } 27. Bc3?? { [%eval -2.27] } { Blunder. Bxf8 was best. } { 这个 blunder 还是太隐蔽了。 } 27... b6?? { [%eval -0.35] } { Blunder. Rd6 was best. } (27... Rd6 28. Be1 Rc6 29. Re2 Rc4 30. Ng2 Rxd4) 28. Nf5 { [%eval -0.35] } 28... a5 { [%eval -0.39] } 29. a4 { [%eval -0.51] } 29... Ne7 { [%eval 0.0] } 30. Nxe7 { [%eval -0.07] } 30... Bxe7 { [%eval -0.05] } 31. Kg2 { [%eval -0.07] } 31... Rd5 { [%eval -0.08] } 32. f4 { [%eval -0.13] } 32... Bd6 { [%eval -0.06] } 33. f5 { [%eval -0.03] } 33... c5 { [%eval 0.2] } 34. Kf3 { [%eval 0.27] } 34... cxd4?? { [%eval 4.75] } { 这显然不对。车吃直接强制换车了,后面象兵残局大概会 Zugzwang。 } 35. Rxd4 { [%eval 4.58] } 35... Rxd4 { [%eval 4.34] } 36. Bxd4 { [%eval 4.45] } 36... Bc7 { [%eval 4.89] } 37. Ke4 { [%eval 4.66] } 37... Ke7 { [%eval 4.66] } 38. Kd5 { [%eval 4.49] } 38... Kd7 { [%eval 3.91] } 39. Kc4?? { [%eval 0.0] } { ...... } 39... Kc6 { [%eval 0.11] } 40. b3 { [%eval 0.02] } 40... Bd6 { [%eval 0.04] } 41. Be3 { [%eval 0.1] } 41... Be7 { [%eval 0.0] } 42. h4 { [%eval 0.0] } 42... Bd8 { [%eval 0.04] } 43. Bd4 { [%eval 0.03] } 43... Be7 { [%eval 0.09] } 44. Be3 { [%eval 0.0] } 44... Bd8 { [%eval 0.07] } 45. Bd4 { [%eval 0.06] } 45... Be7 { [%eval 0.18] } 46. Be3 { [%eval 0.0] } 1/2-1/2
+
+
+[Event "第二届也西杯: Round 4 Table 3 szh-whl"]
+[Date "2026.04.11"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "A03"]
+[Opening "Bird Opening: Dutch Variation"]
+[StudyName "第二届也西杯"]
+[ChapterName "Round 4 Table 3 szh-whl"]
+[ChapterURL "https://lichess.org/study/ypSRcL7M/lydKBqxs"]
+[Annotator "https://lichess.org/@/pjykk"]
+[UTCDate "2026.04.11"]
+[UTCTime "11:39:09"]
+
+1. f4 d5 2. Nf3 Nf6 3. e3 e6 4. Be2 Be7 5. O-O O-O 6. d3 b6 7. a4 a5 8. Ne5 Bb7 9. Bf3 Nfd7 10. Nxd7 Nxd7 11. e4 dxe4 12. Bxe4 Bxe4 13. dxe4 Bc5+ 14. Kh1 Nf6 15. Qe2 Qd4 16. Nc3 Qd7 17. Be3 Bxe3 18. Qxe3 Qc6 19. Qf3 Rfd8 20. Rad1 Qb7 21. e5 Qxf3 22. Rxf3 Nd5 23. Rfd3 c6 24. g3 Kf8 25. Nxd5 Rxd5 26. Rxd5 cxd5 27. Kg2 Rc8 28. c3 Rc4 29. Rd4 Ke7 30. Kf3 h5 31. Rxc4 dxc4 32. Ke4 f5+ 33. exf6+ Kxf6 34. h3 e5 35. fxe5+ Ke6 36. g4 hxg4 37. hxg4 g5 38. Kd4 1-0
+
+
+[Event "第二届也西杯: Round 4 Table 4 lmc-zhz"]
+[Date "2026.04.11"]
+[Result "0-1"]
+[Variant "Standard"]
+[ECO "B22"]
+[Opening "Sicilian Defense: Alapin Variation, Smith-Morra Declined"]
+[StudyName "第二届也西杯"]
+[ChapterName "Round 4 Table 4 lmc-zhz"]
+[ChapterURL "https://lichess.org/study/ypSRcL7M/XPh6IhVj"]
+[Annotator "https://lichess.org/@/pjykk"]
+[UTCDate "2026.04.11"]
+[UTCTime "11:44:25"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. cxd4 d6 6. f4 e6 7. Bd3 dxe5 8. dxe5 Bc5 9. Bd2 Qb6 10. Qa4+ Bd7 11. Qa5 Bxg1 12. Na3 Bf2+ 13. Kd1 Qxa5 14. Bxa5 Nc6 15. Bd2 O-O 16. Rf1 Ne3+ 17. Bxe3 Bxe3 18. Nc4 Bc5 19. a4 Nb4 20. Be4 Bc6 21. Bxc6 Nxc6 22. Rc1 Rfd8+ 23. Kc2 Nb4+ 24. Kb1 Rac8 25. Rfd1 Rxd1 26. Rxd1 Nd5 27. Na5 b6 28. Nb3 Be3 29. f5 Kf8 30. fxe6 fxe6 31. Rf1+ Ke7 32. Rd1 Bf4 33. Re1 Rc4 34. g3 Be3 35. Re2 Rxa4 36. Nd2 Bxd2 37. Rxd2 Re4 38. Rg2 Rxe5 39. h4 Re1+ 40. Ka2 e5 41. g4 e4 42. g5 e3 43. Kb3 Rc1 44. Re2 Rc6 45. h5 Ke6 0-1
+
+
